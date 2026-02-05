@@ -1,4 +1,4 @@
-```javascript
+```ql
 class User {
     private String name;
     private int age;
