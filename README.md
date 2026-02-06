@@ -54,7 +54,7 @@ class Contact {
     public Contact() {
         this.email = "bapparajsk97@gmail.com";
         this.phone = "+91 9832616514";
-        this.linkedIn = "https://www.linkedin.com/in/bapparaj-sk-123456789/";
+        this.linkedIn = "https://www.linkedin.com/in/bappa-raj-sk-6a0153233/";
     }
 }
 ```
